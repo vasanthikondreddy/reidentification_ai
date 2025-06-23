@@ -14,5 +14,5 @@ This project focuses on person re-identification in a single video feed. It uses
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vasanthikondreddy/reid-project.git
-cd reid-project
+git clone https://github.com/vasanthikondreddy/reidentification_ai.git
+cd reidentification_ai
